@@ -1,0 +1,26 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore IDE files (IntelliJ, Eclipse, etc.)
+.idea/
+*.iml
+
+# Ignore build directories
+/target/
+/bin/
+
+# Ignore database files (e.g., SQLite)
+*.sqlite
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore configuration files with sensitive info
+config.properties
