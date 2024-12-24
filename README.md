@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Banking System
 
 This simple Java-based Banking System allows users to create accounts, deposit money, withdraw money, and check account balance. The system interacts with a MySQL database to store account information.
@@ -20,3 +21,6 @@ This simple Java-based Banking System allows users to create accounts, deposit m
 ## How to Run:
 1. Compile and run `BankingSystem.java`.
 2. Choose options from the menu to create accounts, deposit, withdraw, or check balance.
+=======
+# banking-system
+>>>>>>> f1e766528a64acea26f85bed43e476691f2e937f
